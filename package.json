@@ -1,12 +1,12 @@
 {
-  "title": "Orchid Color Scheme",
-  "name": "orchid-theme-sublime",
-  "description": "Orchid theme for Sublime",
-  "version": "0.1.13",
-  "author": "Patrick Fricano <patrick.fricano@icloud.com> (http://github.com/patrickfatrick)",
-  "homepage": "https://github.com/patrickfatrick/orchid-theme-sublime",
+  "title": "Hermine Color Scheme",
+  "name": "hermine-sublime",
+  "description": "Hermine color scheme for Sublime, bsaed on Orchid",
+  "version": "0.1",
+  "author": "Michelle Saad <michsa@tuta.io>",
+  "homepage": "https://github.com/michsa/hermine-sublime",
   "repository": {
     "type": "git",
-    "url": "git@github.com/patrickfatrick/orchid-theme-sublime.git"
+    "url": "git@github.com/michsa/hermine-sublime.git"
   }
 }
